@@ -1,0 +1,39 @@
+{
+    "name": "joffreyc22/nova-french-datepicker",
+    "description": "French datepicker for Laravel Nova",
+    "keywords": [
+        "laravel",
+        "nova",
+        "french",
+        "date",
+        "picker",
+        "datepicker"
+    ],
+    "authors": [
+        {
+            "name": "Joffrey Capitaine",
+            "email": "joffrey.capitaine22@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JoffreyC22\\FrenchDatepicker\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "JoffreyC22\\FrenchDatepicker\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
