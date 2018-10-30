@@ -1,6 +1,6 @@
 {
-    "name": "joffreyc22/nova-french-datepicker",
-    "description": "French datepicker for Laravel Nova",
+    "name": "lucari94/italian-nova-picker",
+    "description": "Italian datepicker for Laravel Nova",
     "keywords": [
         "laravel",
         "nova",
@@ -11,8 +11,8 @@
     ],
     "authors": [
         {
-            "name": "Joffrey Capitaine",
-            "email": "joffrey.capitaine22@gmail.com"
+            "name": "Pippo",
+            "email": "Pluto"
         }
     ],
     "license": "MIT",

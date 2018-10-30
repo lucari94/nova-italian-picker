@@ -1,9 +1,9 @@
-Laravel Nova French Datepicker
+Laravel Nova Italian Datepicker
 ===============================
 
 ## Description
 
-This package is a basic integration of a french datepicker for Laravel Nova (using flatpickr).
+This package is a basic integration of a italian datepicker for Laravel Nova (using flatpickr).
 
 ## Installation
 
